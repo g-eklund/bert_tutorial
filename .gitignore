@@ -93,6 +93,7 @@ venv.bak/
 #model
 bert/
 fasttext/
+imdb/
 
 # Spyder project settings
 .spyderproject
